@@ -1,5 +1,6 @@
 # PublicarTest🔧
 ![](https://github.com/dmarquezg/test-one/blob/master/src/assets/diagramaReacional.jpg)
+![](https://drive.google.com/file/d/1MF6n5P9UTbkY0R-cvYGkiPCgwNelruVv/view?usp=sharing)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.4.
 
